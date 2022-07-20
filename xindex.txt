@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Yuka HASHIZUME</title>
+</head>
+
+<body>
+    <!----- main ----->
+    <article>
+        <h1>Education</h1>
+        <section>
+            <h2>2021.4-</h2>
+            <p>Master's degree, Department of Intelligent Systems, Graduate School of Informatics, Nagoya University,
+                Japan</p>
+            <h2>2017.4 - 2021.3</h2>
+            <p>Bachelor's degree, Department of Electrical and Electronic Engineering, Faculty of Engineering , Kyoto
+                University,
+                Japan</p>
+        </section>
+    </article>
+    <!----- /main ----->
+</body>
+
+</html>
