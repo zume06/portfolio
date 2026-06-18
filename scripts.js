@@ -30,6 +30,6 @@ function calculateAge(birthDate) {
     return age;
 }
 
-const birthday = "2000-06-18";
+const birthday = "1998-06-10";
 
 document.getElementById("age").textContent = calculateAge(birthday);
